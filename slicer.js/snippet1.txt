@@ -1,0 +1,524 @@
+[09:10, 01/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
+[09:11, 01/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 207868c
+[09:11, 01/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1461620c
+e20250220T1121 t2-m3-2 (rodando) 1461620c
+e20250220T1121 t3-m3-3 (rodando) 1461620c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:12, 01/04/2025] [Taiff] Paulo Carvalho: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (rodando) 480817c
+[09:12, 01/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
+[15:02, 01/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[15:02, 01/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 208884c
+[15:02, 01/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1472524c
+e20250220T1121 t2-m3-2 (rodando) 1472524c
+e20250220T1121 t3-m3-3 (rodando) 1472524c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[15:02, 01/04/2025] [Taiff] Mayke: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (rodando) 481747c
+[15:03, 01/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[09:21, 02/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️
+[09:24, 02/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 212077c
+[09:24, 02/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1505736c
+e20250220T1121 t2-m3-2 (rodando) 1505736c
+e20250220T1121 t3-m3-3 (rodando) 1505736c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:25, 02/04/2025] [Taiff] Paulo Carvalho: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (rodando) 514963c
+[09:25, 02/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[14:54, 02/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[14:55, 02/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 213036c
+[14:55, 02/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1515779c
+e20250220T1121 t2-m3-2 (rodando) 1515779c
+e20250220T1121 t3-m3-3 (rodando) 1515779c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[14:55, 02/04/2025] [Taiff] Mayke: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (rodando) 525005c
+[14:56, 02/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[09:25, 03/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[09:26, 03/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 216258c
+[09:26, 03/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1549276c
+e20250220T1121 t2-m3-2 (rodando) 1549276c
+e20250220T1121 t3-m3-3 (rodando) 1549276c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:27, 03/04/2025] [Taiff] Paulo Carvalho: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (rodando) 558460c
+[09:27, 03/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[14:54, 03/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[14:54, 03/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 217207c
+[14:54, 03/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1559234c
+e20250220T1121 t2-m3-2 (rodando) 1559234c
+e20250220T1121 t3-m3-3 (rodando) 1559234c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[14:55, 03/04/2025] [Taiff] Mayke: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (rodando) 568460c
+[14:55, 03/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[09:14, 04/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
+[09:14, 04/04/2025] [Taiff] Paulo Carvalho: Máquina M4 parada
+[09:14, 04/04/2025] [Taiff] Paulo Carvalho: T6 removido
+[09:18, 04/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 220406c
+[09:18, 04/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1592530c
+e20250220T1121 t2-m3-2 (rodando) 1592530c
+e20250220T1121 t3-m3-3 (rodando) 1592530c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:18, 04/04/2025] [Taiff] Paulo Carvalho: e20250313T1456 t1-m4-1 (finalizado) 120481c
+e20250313T1456 t2-m4-2 (finalizado) 252811c
+e20250313T1456 t3-m4-3 (finalizado) 244874c
+e20250313T1456 t4-m4-1 (finalizado) 126686c
+e20250313T1456 t5-m4-3 (finalizado) 126448c
+e20250313T1456 t6-m4-1 (finalizado) 594221c
+[09:18, 04/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️
+[14:55, 04/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[14:55, 04/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 221383c
+[14:55, 04/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1602752c
+e20250220T1121 t2-m3-2 (rodando) 1602752c
+e20250220T1121 t3-m3-3 (rodando) 1602752c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[14:56, 04/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[09:38, 07/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[09:38, 07/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 232971c
+[09:38, 07/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1723500c
+e20250220T1121 t2-m3-2 (rodando) 1723500c
+e20250220T1121 t3-m3-3 (rodando) 1723500c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[10:04, 07/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️
+[10:06, 07/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
+[10:06, 07/04/2025] [Taiff] Paulo Carvalho: Avaliação T6
+[10:07, 07/04/2025] [Taiff] Paulo Carvalho: Sem curto
+[10:07, 07/04/2025] [Taiff] Paulo Carvalho: Luva intacta
+[10:07, 07/04/2025] [Taiff] Paulo Carvalho: Capa rompida na saída da luva
+[10:10, 07/04/2025] [Taiff] Paulo Carvalho: Veia marrom intacta
+[10:10, 07/04/2025] [Taiff] Paulo Carvalho: Veia azul rompida
+[10:12, 07/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
+[15:09, 07/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+♦️♦️♦️♦️♦️♦️
+♦️♦️♦️♦️♦️♦️
+[15:10, 07/04/2025] [Taiff] Mayke: e20250313T1457
+Inicialização de série de ensaios
+Mula: Secador Digital 3100W / 220V 
+Teste: TAIFF +160/-135, zero cabo vertical, 3c/min, até romper, peso 10N, aceita com 10kC
+Cabo:  ARBAME PTO 1.5 76x160um lv60 cp85 ve95 +3pol lote:02-2025
+Local: TAIFF
+CDP: 2x1.50mm2 rec20250312T1650
+função: Verificação
+♦️
+[15:14, 07/04/2025] [Taiff] Mayke: e20250313T1457 t1-mx-x
+Consumo  220.65V /  12.884A /  2841.1W
+Obs: cabo fechado com fitilho
+Pronto para teste
+♦️
+[15:17, 07/04/2025] [Taiff] Mayke: e20250313T1457 t2-mx-x
+Consumo  220.64V /  12.860A /  2836.0W
+Obs: cabo fechado com fitilho
+Pronto para teste
+♦️
+[15:19, 07/04/2025] [Taiff] Mayke: e20250313T1457 t3-mx-x
+Consumo  220.57V /  12.825A /  2827.4W
+Obs: cabo fechado com fitilho
+Pronto para teste
+♦️
+[15:21, 07/04/2025] [Taiff] Mayke: e20250313T1457 t4-mx-x
+Consumo  220.72V /  12.824A /  2829.0W
+Obs: cabo fechado com fitilho
+Pronto para teste
+♦️
+[15:23, 07/04/2025] [Taiff] Mayke: e20250313T1457 t5-mx-x
+Consumo  220.76V /  12.829A /  2830.5W
+Obs: cabo fechado com fitilho
+Pronto para teste
+♦️
+[15:25, 07/04/2025] [Taiff] Mayke: e20250313T1457 t6-mx-x
+Consumo  220.73V /  12.853A /  2835.5W
+Obs: cabo fechado com fitilho
+Pronto para teste
+♦️
+[15:25, 07/04/2025] [Taiff] Mayke: e20250313T1457 t1-mx-x (comissionado) 0c
+e20250313T1457 t2-mx-x (comissionado) 0c
+e20250313T1457 t3-mx-x (comissionado) 0c
+e20250313T1457 t4-mx-x (comissionado) 0c
+e20250313T1457 t5-mx-x (comissionado) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[15:25, 07/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+♦️♦️♦️♦️♦️♦️
+♦️♦️♦️♦️♦️♦️
+[15:48, 07/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[15:48, 07/04/2025] [Taiff] Paulo Carvalho: Início da máquina M4
+[15:56, 07/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 234078c
+[15:56, 07/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1734820c
+e20250220T1121 t2-m3-2 (rodando) 1734820c
+e20250220T1121 t3-m3-3 (rodando) 1734820c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[15:57, 07/04/2025] [Taiff] Paulo Carvalho: e20250313T1457 t1-m4-1 (rodando) 0c
+e20250313T1457 t2-m4-2 (rodando) 0c
+e20250313T1457 t3-m4-3 (rodando) 0c
+e20250313T1457 t4-mx-x (comissionado) 0c
+e20250313T1457 t5-mx-x (comissionado) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[15:57, 07/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
+[09:42, 08/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[09:42, 08/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 237169c
+[09:43, 08/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1767196c
+e20250220T1121 t2-m3-2 (rodando) 1767196c
+e20250220T1121 t3-m3-3 (rodando) 1767196c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:44, 08/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (rodando) 3533c
+e20250313T1457 t2-m4-2 (rodando) 3533c
+e20250313T1457 t3-m4-3 (rodando) 3533c
+e20250313T1457 t4-mx-x (comissionado) 0c
+e20250313T1457 t5-mx-x (comissionado) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[09:45, 08/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[15:37, 08/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[15:37, 08/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 238197c
+[15:38, 08/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1778021c
+e20250220T1121 t2-m3-2 (rodando) 1778021c
+e20250220T1121 t3-m3-3 (rodando) 1778021c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[15:38, 08/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (rodando) 4720c
+e20250313T1457 t2-m4-2 (rodando) 4720c
+e20250313T1457 t3-m4-3 (rodando) 4720c
+e20250313T1457 t4-mx-x (comissionado) 0c
+e20250313T1457 t5-mx-x (comissionado) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[15:39, 08/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[09:38, 09/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[09:39, 09/04/2025] [Taiff] Mayke: Máquina 4 parada
+[09:41, 09/04/2025] [Taiff] Mayke: T3 removido
+[09:46, 09/04/2025] [Taiff] Mayke: T4 iniciado
+[09:48, 09/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 241359c
+[09:49, 09/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1810935c
+e20250220T1121 t2-m3-2 (rodando) 1810935c
+e20250220T1121 t3-m3-3 (rodando) 1810935c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:50, 09/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (rodando) 7101c
+e20250313T1457 t2-m4-2 (rodando) 7101c
+e20250313T1457 t3-m4-3 (removido) 7101c
+e20250313T1457 t4-m4-3 (rodando) 0c
+e20250313T1457 t5-mx-x (comissionado) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[09:50, 09/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[15:55, 09/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[15:56, 09/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 242424c
+[15:56, 09/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1822093c
+e20250220T1121 t2-m3-2 (rodando) 1822093c
+e20250220T1121 t3-m3-3 (rodando) 1822093c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[15:57, 09/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (rodando) 8324c
+e20250313T1457 t2-m4-2 (rodando) 8324c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (rodando) 1223c
+e20250313T1457 t5-mx-x (comissionado) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[15:57, 09/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[09:31, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[09:31, 10/04/2025] [Taiff] Mayke: Máquina 4 parada
+[09:36, 10/04/2025] [Taiff] Mayke: T2 removido
+[09:36, 10/04/2025] [Taiff] Mayke: T5 iniciado
+[09:40, 10/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 245508c
+[09:41, 10/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1854234c
+e20250220T1121 t2-m3-2 (rodando) 1854234c
+e20250220T1121 t3-m3-3 (rodando) 1854234c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:43, 10/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (rodando) 8570c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (rodando) 1469c
+e20250313T1457 t5-m4-2 (rodando) 0c
+e20250313T1457 t6-mx-x (comissionado) 0c
+[09:43, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[10:56, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[10:56, 10/04/2025] [Taiff] Mayke: Avaliação T2
+[10:56, 10/04/2025] [Taiff] Mayke: Sem curto
+[10:56, 10/04/2025] [Taiff] Mayke: Capa intacta
+[10:56, 10/04/2025] [Taiff] Mayke: Luva intacta
+[10:57, 10/04/2025] [Taiff] Mayke: Veia azul estourada dentro da luva
+[10:57, 10/04/2025] [Taiff] Mayke: Veia marrom intacta
+[10:57, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[11:25, 10/04/2025] [Taiff] Mayke: Avaliação T3
+[11:25, 10/04/2025] [Taiff] Mayke: Sem contato
+[11:25, 10/04/2025] [Taiff] Mayke: Luva intacta
+[11:25, 10/04/2025] [Taiff] Mayke: Capa intacta
+[11:26, 10/04/2025] [Taiff] Mayke: Veia azul rompida dentro da luva
+[11:26, 10/04/2025] [Taiff] Mayke: Veia marrom intacta
+[11:26, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[14:34, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[14:35, 10/04/2025] [Taiff] Mayke: Máquina 4 parada
+[14:42, 10/04/2025] [Taiff] Mayke: T1 removido
+[14:43, 10/04/2025] [Taiff] Mayke: T6 iniciado
+[14:44, 10/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 246389c
+[14:45, 10/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1863412c
+e20250220T1121 t2-m3-2 (rodando) 1863412c
+e20250220T1121 t3-m3-3 (rodando) 1863412c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[14:46, 10/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (finalizado) 8786c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (rodando) 1469c
+e20250313T1457 t5-m4-2 (rodando) 207c
+e20250313T1457 t6-m4-1 (rodando) 0c
+[14:46, 10/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[09:31, 11/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️
+[09:36, 11/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 249670c
+[09:36, 11/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 1897574c
+e20250220T1121 t2-m3-2 (rodando) 1897574c
+e20250220T1121 t3-m3-3 (rodando) 1897574c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:37, 11/04/2025] [Taiff] Paulo Carvalho: e20250313T1457 t1-m4-1 (finalizado) 8786c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (rodando) 5440c
+e20250313T1457 t5-m4-2 (rodando) 3962c
+e20250313T1457 t6-m4-1 (rodando) 3755c
+[09:37, 11/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[15:10, 11/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️♦️
+[15:10, 11/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 250638c
+[15:11, 11/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 1907752c
+e20250220T1121 t2-m3-2 (rodando) 1907752c
+e20250220T1121 t3-m3-3 (rodando) 1907752c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[15:12, 11/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (finalizado) 8786c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (rodando) 6554c
+e20250313T1457 t5-m4-2 (rodando) 5077c
+e20250313T1457 t6-m4-1 (rodando) 4871c
+[15:12, 11/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[09:16, 14/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[09:16, 14/04/2025] [Taiff] Paulo Carvalho: Máquina M4 parada
+[09:22, 14/04/2025] [Taiff] Paulo Carvalho: T4 removido
+[09:24, 14/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 262132c
+[09:24, 14/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 2027643c
+e20250220T1121 t2-m3-2 (rodando) 2027643c
+e20250220T1121 t3-m3-3 (rodando) 2027643c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:25, 14/04/2025] [Taiff] Paulo Carvalho: e20250313T1457 t1-m4-1 (finalizado) 8786c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (finalizado) 6852c
+e20250313T1457 t5-m4-2 (rodando) 5374c
+e20250313T1457 t6-m4-1 (rodando) 5167c
+[09:25, 14/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️
+[11:16, 14/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[11:16, 14/04/2025] [Taiff] Mayke: Avaliação T4
+[11:17, 14/04/2025] [Taiff] Mayke: Sem contato
+[11:17, 14/04/2025] [Taiff] Mayke: Luva intacta
+[11:17, 14/04/2025] [Taiff] Mayke: Capa intacta
+[11:17, 14/04/2025] [Taiff] Mayke: Veia azul intacta
+[11:17, 14/04/2025] [Taiff] Mayke: Veia marrom rompida dentro da luva
+[11:18, 14/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[12:14, 14/04/2025] [Taiff] Mayke: Avaliação T1
+[12:14, 14/04/2025] [Taiff] Mayke: Sem contato
+[12:15, 14/04/2025] [Taiff] Mayke: Luva intacta
+[12:15, 14/04/2025] [Taiff] Mayke: Capa intacta
+[12:15, 14/04/2025] [Taiff] Mayke: Veia azul intacta
+[12:15, 14/04/2025] [Taiff] Mayke: Veia marrom rompida dentro da luva
+[12:15, 14/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[15:05, 14/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️♦️
+[15:05, 14/04/2025] [Taiff] Mayke: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 263142
+[15:06, 14/04/2025] [Taiff] Mayke: e20250220T1121 t1-m3-1 (rodando) 2038170c
+e20250220T1121 t2-m3-2 (rodando) 2038170c
+e20250220T1121 t3-m3-3 (rodando) 2038170c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[15:08, 14/04/2025] [Taiff] Mayke: e20250313T1457 t1-m4-1 (finalizado) 8786c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (finalizado) 6852c
+e20250313T1457 t5-m4-2 (rodando) 6516c
+e20250313T1457 t6-m4-1 (rodando) 6310c
+[15:08, 14/04/2025] [Taiff] Mayke: ♦️♦️♦️♦️
+[09:18, 15/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[09:20, 15/04/2025] [Taiff] Paulo Carvalho: Máquina M3 parada
+[09:21, 15/04/2025] [Taiff] Paulo Carvalho: Máquina M4 parada
+[09:28, 15/04/2025] [Taiff] Paulo Carvalho: T2 da máquina M2 removido
+[09:28, 15/04/2025] [Taiff] Paulo Carvalho: T6 da máquina M4 removido
+[09:32, 15/04/2025] [Taiff] Paulo Carvalho: e20250207T1501 t1-m3-1 (finalizado) 13619c
+e20250207T1501 t2-m3-2 (finalizado) 12052c
+e20250207T1501 t3-m3-3 (finalizado) 15491c
+e20250207T1501 t4-m2-1 (finalizado) 16168c
+e20250207T1501 t5-m2-2 (finalizado) 66296c
+e20250207T1501 t6-m2-3 (rodando) 266340c
+[09:32, 15/04/2025] [Taiff] Paulo Carvalho: e20250220T1121 t1-m3-1 (rodando) 2050009c
+e20250220T1121 t2-m3-2 (finalizado) 2050009c
+e20250220T1121 t3-m3-3 (rodando) 2050009c
+e20250220T1121 t4-mx-x (não comissionado)
+e20250220T1121 t5-mx-x (não comissionado)
+e20250220T1121 t6-mx-x (não comissionado)
+[09:33, 15/04/2025] [Taiff] Paulo Carvalho: e20250313T1457 t1-m4-1 (finalizado) 8786c
+e20250313T1457 t2-m4-2 (finalizado) 8570c
+e20250313T1457 t3-m4-3 (finalizado) 7101c
+e20250313T1457 t4-m4-3 (finalizado) 6852c
+e20250313T1457 t5-m4-2 (rodando) 7796c
+e20250313T1457 t6-m4-1 (finalizado) 7589c
+[09:33, 15/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[10:13, 15/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️
+[10:13, 15/04/2025] [Taiff] Paulo Carvalho: Avaliação Chapa Titanium 450
+T2
+[10:14, 15/04/2025] [Taiff] Paulo Carvalho: Sem curto
+[10:14, 15/04/2025] [Taiff] Paulo Carvalho: Luva intacta
+[10:14, 15/04/2025] [Taiff] Paulo Carvalho: Capa rompida na saída da luva
+[10:15, 15/04/2025] [Taiff] Paulo Carvalho: Veia azul intacta
+[10:15, 15/04/2025] [Taiff] Paulo Carvalho: Veia marrom rompida
+[10:15, 15/04/2025] [Taiff] Paulo Carvalho: ♦️♦️♦️♦️♦️♦️♦️♦️
