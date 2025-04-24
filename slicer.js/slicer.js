@@ -31,7 +31,7 @@ class SnippetType {
 }
 
 const readFile = async (filename) => {
-  console.log("Reading file");
+  console.log('Reading file: "' + filename + '"');
   try {
     const data = await fs.readFileSync(filename, "utf-8");
     return data;
@@ -222,6 +222,11 @@ const parseUpdateIndividualItem = async (dataItem) => {
         read = line.match(/e20\d{6}T\d{4}/g);
         read ? (updatesItem.test = read[0]) : (updatesItem.test = "");
 
+        read = line.match(/ {1,}(t\d{1})/g);
+        read
+          ? (updatesItem.test_tomada = read[0].trim())
+          : (updatesItem.test_tomada = "");
+
         read = line.match(/m.-./);
         read ? (updatesItem.maq_pos = read[0]) : (updatesItem.maq_pos = "");
 
@@ -237,27 +242,72 @@ const parseUpdateIndividualItem = async (dataItem) => {
       }
     });
 
-    console.log(updates);
+    //remove the undefineds
+    updates = updates.filter((line, n) => line !== undefined);
+
+    //resolves the promisse
+    resolve(updates);
   });
 };
 
-const parseUpdateItems = async (parsedData) => {
+const parseComissionMsgItem = async (dataItem) => {
   return new Promise((resolve, reject) => {
-    parsedData.forEach(async (e, n) => {
-      if (e.type == SnippetType.Update) {
-        await parseUpdateIndividualItem(e.data);
-      }
-    });
+    console.log("💡💡💡 COMMIT MSG 💡💡💡💡");
+    var returnData = {};
+    var data;
+
+    //separa a mensagem de comissionamento em blocos pelo caractere diamante
+    var blocks = dataItem.trim().split("♦️");
+
+    //remove os blocos em branco (desnecessários)
+    blocks = blocks.filter((e) => e.length != 0);
+
+    //parse do primeiro bloco (obrigatório)
+    console.log(blocks[0]);
+    var lines = blocks[0].trim().split("\n"); //separação do bloco 0 em linhas
+
+    //primeira linha do bloco, código e
+    data = lines[0].match(/e\d{8}T\d{4}/);
+    data ? (returnData.testId = data[0]) : (returnData.testId = "");
+
+    //segunda linha do bloco (mula)
+    data = lines[1].match(/^.ula: (.*)/);
+    console.log(data);
+
+    console.log(returnData);
   });
+};
+
+const parseSnippets = async (parsedData) => {
+  parsedData = parsedData.map(async (e, n) => {
+    if (e.type === SnippetType.Update) {
+      e.snippetDetails = await parseUpdateIndividualItem(e.data);
+      return e;
+    }
+    if (e.type === SnippetType.Eval) {
+      e.snippetDetails = [];
+      return e;
+    }
+    if (e.type === SnippetType.ComissionMsg) {
+      e.snippetDetails = await parseComissionMsgItem(e.data);
+      return e;
+    }
+    e.snippetDetails = [];
+    return e;
+  });
+
+  parsedData = await Promise.all(parsedData);
+
+  // parsedData.forEach((e) => {
+  //   console.log(e.snippetDetails);
+  // });
 };
 
 (async () => {
   try {
     var parsedData = [];
     parsedData = await parseFile("snippet1.txt");
-    parsedData = await parseUpdateItems(parsedData);
-
-    console.log(parsedData);
+    parsedData = await parseSnippets(parsedData);
   } catch (err) {
     console.log(err);
   }
